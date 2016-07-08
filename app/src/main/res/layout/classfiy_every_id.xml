@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp">
+    <Button
+        android:id="@+id/classfiy_every_parentId_button"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:textSize="20sp"
+        android:paddingTop="5dp"
+        android:paddingLeft="5dp"
+        android:background="@drawable/classfiy_button_shape"
+        />
+</LinearLayout>
